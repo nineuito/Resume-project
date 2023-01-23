@@ -195,6 +195,14 @@ body {
   color: #000000;
 }
 
+.education-university-name-second {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #6d9bf5;
+  margin: 25px 0 12px;
+}
 /* Sidebar */
 
 .sidebar {
