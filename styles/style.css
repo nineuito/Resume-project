@@ -57,6 +57,11 @@ body {
 
 .about-me-descr-link {
   color: #005fff;
+  text-decoration: none;
+}
+
+.about-me-descr-link:hover {
+  color: darkblue;
 }
 
 .about-me-container {
@@ -69,7 +74,7 @@ body {
 }
 .project-item {
   font-style: normal;
-  font-weight: 700;
+  font-weight: 600;
   font-size: 14px;
   line-height: 24px;
   color: #000000;
@@ -82,19 +87,23 @@ body {
 
 .project-item-descr {
   font-style: normal;
-  font-weight: 400;
+  font-weight: 500;
   font-size: 14px;
   line-height: 24px;
   color: #595959;
 }
 
-.project-item-link {
+/* .project-item-link {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
   text-decoration-line: underline;
   color: #005fff;
+} */
+
+.name-language {
+  font-weight: 600;
 }
 
 /* Work experience */
@@ -249,6 +258,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #161d2a;
+  text-decoration: none;
 }
 
 .contacts-email {
@@ -257,6 +267,11 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #2979ff;
+  text-decoration: none;
+}
+
+.contacts-email:hover {
+  color: darkblue;
 }
 
 /* Tech skills */
