@@ -154,6 +154,10 @@ body {
   margin: 0;
 }
 
+.no-experience {
+  font-size: 14px;
+}
+
 /* Education */
 .education-container {
   margin: 43px 0 107px 0;
